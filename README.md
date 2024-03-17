@@ -1,6 +1,39 @@
 # Credit-Card-Reader-Using-Facial-Recognition
 
-Follow this article to know more about this project :
- https://medium.com/theleanprogrammer/facial-recognition-using-python-library-ef7e0fbb8f3d
+This is an face recognition based credit card reader project.
 
-![IJRTI2212069_Certificate-pages-1_page-0001](https://user-images.githubusercontent.com/49878564/217020222-1484f679-e581-4313-a6ac-5517a1867720.jpg)
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Python 3.12
+- Git
+- Internet connection
+
+### Installing
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Mukish45/credit-card-reader-face-recogition.git
+    ```
+
+2. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run GUI-BankSystem.py file
+
+    ```bash
+    python3 GUI-BankSystem.py
+    ```
+
+## Note
+
+1. Create a New Account (Enter account holder name, Initial amount, PIN, Capture FaceID)
+2. Login in with Account holder name, Account number, PIN along with FaceID.
+3. To capture FaceID click `S` on keyboard.
